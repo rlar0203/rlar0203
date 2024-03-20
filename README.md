@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rlar0203 (RICHARD ROMAN)
-if you are a recuiter/HR representative from this class you can message me via rlar0203@gmail.com to receive access
+if you are a recuiter/HR representative who wants to see my projects, you can message me via rlar0203@gmail.com to receive access
 then send me an email to request access to private github files
 
 <!---
